@@ -363,7 +363,7 @@ const translation = {
     },
   },
   apiBasedExtension: {
-    title: 'API 扩展提供了一个集中式的 API 管理，在此统一添加 API 配置后，方便在 Dify 上的各类应用中直接使用。',
+    title: 'API 扩展提供了一个集中式的 API 管理，在此统一添加 API 配置后，方便在 QiLab 上的各类应用中直接使用。',
     link: '了解如何开发您自己的 API 扩展。',
     linkUrl: 'https://docs.dify.ai/v/zh-hans/advanced/api_based_extension',
     add: '新增 API 扩展',
@@ -394,8 +394,8 @@ const translation = {
   about: {
     changeLog: '更新日志',
     updateNow: '现在更新',
-    nowAvailable: 'Dify {{version}} 现已可用。',
-    latestAvailable: 'Dify {{version}} 已是最新版本。',
+    nowAvailable: 'QiLab {{version}} 现已可用。',
+    latestAvailable: 'QiLab {{version}} 已是最新版本。',
   },
   appMenus: {
     overview: '概览',

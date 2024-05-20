@@ -1,6 +1,6 @@
 const translation = {
-  pageTitle: '嗨，近来可好 👋',
-  welcome: '欢迎来到 Dify, 登录以继续',
+  pageTitle: '嗨，你近来可好 👋',
+  welcome: '欢迎来到 QiLab, 登录以继续',
   email: '邮箱',
   emailPlaceholder: '输入邮箱地址',
   password: '密码',
@@ -41,7 +41,7 @@ const translation = {
     passwordInvalid: '密码必须包含字母和数字，且长度不小于8位',
   },
   license: {
-    tip: '启动 Dify 社区版之前, 请阅读 GitHub 上的',
+    tip: '启动 Qlab Dify 社区版之前, 请阅读 GitHub 上的',
     link: '开源协议',
   },
   join: '加入',

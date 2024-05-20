@@ -42,7 +42,7 @@ const translation = {
     passwordInvalid: 'Password must contain letters and numbers, and the length must be greater than 8',
   },
   license: {
-    tip: 'Before starting Dify Community Edition, read the GitHub',
+    tip: 'Before starting Qlab 72tech Dify Community Edition, read the GitHub',
     link: 'Open-source License',
   },
   join: 'Join',

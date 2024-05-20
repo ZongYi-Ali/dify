@@ -6,11 +6,11 @@ const translation = {
     builtIn: 'Built-in',
     custom: 'Custom',
   },
-  contribute: {
-    line1: 'I\'m interested in ',
-    line2: 'contributing tools to Dify.',
-    viewGuide: 'View the guide',
-  },
+  // contribute: {
+  //   line1: 'I\'m interested in ',
+  //   line2: 'contributing tools to Dify.',
+  //   viewGuide: 'View the guide',
+  // },
   author: 'By',
   auth: {
     unauthorized: 'To Authorize',
