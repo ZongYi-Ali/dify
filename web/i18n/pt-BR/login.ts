@@ -40,10 +40,10 @@ const translation = {
     passwordEmpty: 'A senha é obrigatória',
     passwordInvalid: 'A senha deve conter letras e números e ter um comprimento maior que 8',
   },
-  license: {
-    tip: 'Antes de começar a usar a Edição Comunitária do Dify, leia a',
-    link: 'Licença de código aberto do GitHub',
-  },
+  // license: {
+  //   tip: 'Antes de começar a usar a Edição Comunitária do Dify, leia a',
+  //   link: 'Licença de código aberto do GitHub',
+  // },
   join: 'Participar',
   joinTipStart: 'Convidamos você a participar da',
   joinTipEnd: 'equipe no Dify',

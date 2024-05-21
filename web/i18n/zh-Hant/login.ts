@@ -40,10 +40,10 @@ const translation = {
     passwordEmpty: '密碼不能為空',
     passwordInvalid: '密碼必須包含字母和數字，且長度不小於8位',
   },
-  license: {
-    tip: '啟動 Dify 社群版之前, 請閱讀 GitHub 上的',
-    link: '開源協議',
-  },
+  // license: {
+  //   tip: '啟動 Dify 社群版之前, 請閱讀 GitHub 上的',
+  //   link: '開源協議',
+  // },
   join: '加入',
   joinTipStart: '邀請你加入',
   joinTipEnd: '團隊',

@@ -40,10 +40,10 @@ const translation = {
     passwordEmpty: 'パスワードは必須です',
     passwordInvalid: 'パスワードは文字と数字を含み、長さは8以上である必要があります',
   },
-  license: {
-    tip: 'Dify Community Editionを開始する前に、GitHubの',
-    link: 'オープンソースライセンス',
-  },
+  // license: {
+  //   tip: 'Dify Community Editionを開始する前に、GitHubの',
+  //   link: 'オープンソースライセンス',
+  // },
   join: '参加する',
   joinTipStart: 'あなたを招待します',
   joinTipEnd: 'チームに参加する',

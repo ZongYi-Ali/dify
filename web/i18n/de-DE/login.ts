@@ -40,10 +40,10 @@ const translation = {
     passwordEmpty: 'Passwort wird benötigt',
     passwordInvalid: 'Das Passwort muss Buchstaben und Zahlen enthalten und länger als 8 Zeichen sein',
   },
-  license: {
-    tip: 'Bevor du mit Dify Community Edition beginnst, lies die',
-    link: 'Open-Source-Lizenz',
-  },
+  // license: {
+  //   tip: 'Bevor du mit Dify Community Edition beginnst, lies die',
+  //   link: 'Open-Source-Lizenz',
+  // },
   join: 'Beitreten',
   joinTipStart: 'Lade dich ein, dem',
   joinTipEnd: 'Team auf Dify beizutreten',

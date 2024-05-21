@@ -40,10 +40,10 @@ const translation = {
     passwordEmpty: 'Mật khẩu là bắt buộc',
     passwordInvalid: 'Mật khẩu phải chứa chữ và số, và độ dài phải lớn hơn 8',
   },
-  license: {
-    tip: 'Trước khi bắt đầu Phiên bản Cộng đồng của Dify, hãy đọc',
-    link: 'Giấy phép mã nguồn mở trên GitHub',
-  },
+  // license: {
+  //   tip: 'Trước khi bắt đầu Phiên bản Cộng đồng của Dify, hãy đọc',
+  //   link: 'Giấy phép mã nguồn mở trên GitHub',
+  // },
   join: 'Tham gia',
   joinTipStart: 'Mời bạn tham gia',
   joinTipEnd: 'đội tại Dify',

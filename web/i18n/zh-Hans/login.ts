@@ -41,8 +41,8 @@ const translation = {
     passwordInvalid: '密码必须包含字母和数字，且长度不小于8位',
   },
   license: {
-    tip: '启动 Qlab Dify 社区版之前, 请阅读 GitHub 上的',
-    link: '开源协议',
+    tip: '启动 Qilab 之前, 请阅读 相关',
+    link: '许可协议',
   },
   join: '加入',
   joinTipStart: '邀请你加入',

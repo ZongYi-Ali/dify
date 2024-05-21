@@ -40,10 +40,10 @@ const translation = {
     passwordEmpty: 'Пароль є обов’язковим',
     passwordInvalid: 'Пароль повинен містити літери та цифри, а довжина повинна бути більшою за 8',
   },
-  license: {
-    tip: 'Перед запуском Dify Community Edition ознайомтеся з ліцензією з відкритим кодом на GitHub',
-    link: 'Ліцензія з відкритим кодом',
-  },
+  // license: {
+  //   tip: 'Перед запуском Dify Community Edition ознайомтеся з ліцензією з відкритим кодом на GitHub',
+  //   link: 'Ліцензія з відкритим кодом',
+  // },
   join: 'Приєднуйтесь',
   joinTipStart: 'Запрошуємо вас приєднатися',
   joinTipEnd: 'команда Dify',
