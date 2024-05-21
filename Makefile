@@ -2,7 +2,7 @@
 DOCKER_REGISTRY=newnewman2003
 WEB_IMAGE=$(DOCKER_REGISTRY)/qilab-web
 API_IMAGE=$(DOCKER_REGISTRY)/qilab-api
-VERSION=latest
+VERSION=1.0.0
 
 # Build Docker images
 build-web:
